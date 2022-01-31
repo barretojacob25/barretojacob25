@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barretojacob25
 - 👀 I’m interested in computers and mathematics
-- 🌱 I’m currently learning about compooters uwu
-- 💞️ I’m looking to collaborate on AI research and development once I'm ready 
+- 🌱 I’m currently learning InfoSec and math
+- 💞️ I’m looking to collaborate on security research
 - 📫 How to reach me: Jacob#4013 on Discord
