@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @barretojacob25
-- 👀 I’m interested in computers and mathematics
-- 🌱 I’m currently learning InfoSec and math
-- 💞️ I’m looking to collaborate on security research
-- 📫 How to reach me: kobits on Discord
+yhyh i'm a complete retard and my code can't be trusted at all 
